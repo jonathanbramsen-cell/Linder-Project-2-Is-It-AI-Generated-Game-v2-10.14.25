@@ -1,0 +1,8 @@
+<!-- ai2.svg - AI-generated placeholder -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <metadata><aiGenerated>true</aiGenerated></metadata>
+  <rect width="100%" height="100%" fill="#FFF3E0"/>
+  <path d="M20 160 Q100 40 180 160" fill="#FFCC80" stroke="#FF8A65" stroke-width="4"/>
+  <circle cx="60" cy="60" r="14" fill="#FFB74D"/>
+  <text x="100" y="185" font-size="14" text-anchor="middle" fill="#333">AI 2</text>
+</svg>
