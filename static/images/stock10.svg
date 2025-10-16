@@ -1,0 +1,7 @@
+<!-- stock10.svg - non-AI stock vector -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <rect width="100%" height="100%" rx="10" fill="#F8F8FF"/>
+  <path d="M20 160 L60 100 L100 140 L140 80 L180 160 Z" fill="#DDA0DD" stroke="#BA55D3" stroke-width="3"/>
+  <circle cx="100" cy="60" r="22" fill="#FFD700"/>
+  <text x="100" y="185" font-size="14" text-anchor="middle" fill="#333">Stock 10</text>
+</svg>

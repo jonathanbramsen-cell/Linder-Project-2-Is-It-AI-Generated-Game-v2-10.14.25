@@ -1,0 +1,10 @@
+<!-- stock6.svg - non-AI stock vector -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <rect width="100%" height="100%" rx="18" fill="#F5F5F5"/>
+  <g fill="#4682B4">
+    <ellipse cx="60" cy="90" rx="28" ry="18"/>
+    <ellipse cx="140" cy="90" rx="28" ry="18"/>
+  </g>
+  <rect x="60" y="110" width="80" height="40" rx="8" fill="#B0C4DE"/>
+  <text x="100" y="180" font-size="14" text-anchor="middle" fill="#333">Stock 6</text>
+</svg>

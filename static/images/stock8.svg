@@ -1,0 +1,7 @@
+<!-- stock8.svg - non-AI stock vector -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <rect width="100%" height="100%" rx="15" fill="#F0F8FF"/>
+  <path d="M30 140 C60 80, 140 80, 170 140" fill="#98FB98" stroke="#2E8B57" stroke-width="3"/>
+  <rect x="85" y="30" width="30" height="40" rx="6" fill="#FFB347"/>
+  <text x="100" y="185" font-size="14" text-anchor="middle" fill="#333">Stock 8</text>
+</svg>
